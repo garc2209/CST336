@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+    color:white;
+}
+
+
+
+#cloud {
+    margin-left: 425px;
+}
+
+#foot{
+    color: white;
+    font-size: smaller;
+   
+}
+
+#welcomeText {
+    float: left;
+    text-align: left;
+    font-size: 20px;
+}
+
+#monty.center {
+    display: block;
+    margin: 0 auto;
+}
+
+footer  {
+    text-align: center;
+    clear: left;
+    
+    
+}
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    
+}
+li {
+    float: left;
+}
+
+#vcloud{
+    margin-left: 330px;
+    margin-right: 500px;
+}
+nav a {
+    display: block;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+     font-family: 'Press Start 2P', cursive;
+}
+
+nav a:hover {
+    background-color: red;
+}
+
+.active {
+    background-color: red;
+}
+
+#hands{
+    margin-left: 500px;
+
+}
+#type{
+    margin-left: 400px;
+
+}
+#TypeText
+{
+     text-align: center;
+}
+
+#howText{
+    text-align: center;
+}
+h1 {
+    font-family: 'Press Start 2P', cursive;
+}
+#definition {
+    font-size: larger;
+    text-align: center;
+    margin-left: 500px;
+    width: 30em; 
+    word-wrap: break-word;
+}
+
+header {
+    text-align: center;
+}
