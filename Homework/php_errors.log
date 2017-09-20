@@ -1,0 +1,30 @@
+[20-Sep-2017 06:37:27 UTC] PHP Warning:  include_once(./functions/functins.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 32
+[20-Sep-2017 06:37:27 UTC] PHP Stack trace:
+[20-Sep-2017 06:37:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:37:27 UTC] PHP Warning:  include_once(): Failed opening './functions/functins.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 32
+[20-Sep-2017 06:37:27 UTC] PHP Stack trace:
+[20-Sep-2017 06:37:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:37:27 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 42
+[20-Sep-2017 06:37:27 UTC] PHP Stack trace:
+[20-Sep-2017 06:37:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:37:27 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42
+[20-Sep-2017 06:39:30 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 42
+[20-Sep-2017 06:39:30 UTC] PHP Stack trace:
+[20-Sep-2017 06:39:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:39:30 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42
+[20-Sep-2017 06:42:27 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 42
+[20-Sep-2017 06:42:27 UTC] PHP Stack trace:
+[20-Sep-2017 06:42:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:42:27 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42
+[20-Sep-2017 06:42:30 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 42
+[20-Sep-2017 06:42:30 UTC] PHP Stack trace:
+[20-Sep-2017 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:42:30 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42
+[20-Sep-2017 06:42:55 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 42
+[20-Sep-2017 06:42:55 UTC] PHP Stack trace:
+[20-Sep-2017 06:42:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:42:55 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42
+[20-Sep-2017 06:49:43 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php on line 42
+[20-Sep-2017 06:49:43 UTC] PHP Stack trace:
+[20-Sep-2017 06:49:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 06:49:43 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42

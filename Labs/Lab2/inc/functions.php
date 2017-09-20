@@ -2,30 +2,7 @@
 function displaySymbol($randomValue, $pos)
        {
            
-          /* 
-           if($randomValue == 0)
-        {
-            echo '<img src="img/seven.png" alt="seven" title="Seven" width="70" />';
-        }
-        else if ($randomValue== 1) 
-        {
-            echo '<img src="img/cherry.png" alt="cherry" title="Cherry" width="70" />';    
-        }
-        else 
-        {
-            echo '<img src="img/lemon.png" alt="lemon" title="Lemon" width="70" />';
-        }
-        */
-        /*
-        switch($randomValue){
-            case 0: echo "<img src='img/seven.png' alt='seven' title='Seven' width='70z' />";
-                    break;
-            case 1: echo "<img src='img/cherry.png' alt='cherry' title='Cherry' width='70z' />";
-                    break;
-            case 2: echo "<img src='img/lemon.png' alt='lemon' title='Lemon' width='70z' />";
-                    break;
-        }
-        */
+        
         
         switch ($randomValue) {
             case 0: $symbol = "seven";
