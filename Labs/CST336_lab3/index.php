@@ -1,15 +1,10 @@
 <?php
-
-
-
 ?>
 
 <?php
  session_start();
  global $temp;
  $temp=array();
-
-
     if (!isset($_SESSION['count']))
     {
        $_SESSION['count'] = 0;
@@ -56,19 +51,22 @@
             play();
             
             
-
             
             
                 $start = microtime(true);
-
                  for ($i = 0; $i < 1000000; $i++) 
                  {
                     $j = rand(1,3000) * rand(1,2000);
                 }
-
                 $elapsedSecs = microtime(true) - $start;
                 $_SESSION['total']+=$eslapsedSecs;
+                if($_SESSION['count'] !=0)
+                {
                 $avg_time=$_SESSION['total']/$_SESSION['count'];
+                }
+                else {
+                    $avg_time=$_SESSION['total'];
+                }
                 echo "<div id = 'time'>";
                 
                 echo "Time elapsed: " . $elapsedSecs . " secs";
@@ -87,4 +85,4 @@
         </form>
     </body>
     </div>
-</html>
+</html
