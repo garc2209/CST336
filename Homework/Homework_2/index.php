@@ -38,6 +38,7 @@
 
 			global $Lotto;
 
+		
 			//Sort the array
 
 			sort($Lotto);

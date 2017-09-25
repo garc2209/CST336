@@ -28,3 +28,103 @@
 [20-Sep-2017 06:49:43 UTC] PHP Stack trace:
 [20-Sep-2017 06:49:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
 [20-Sep-2017 06:49:43 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:42
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:30:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:30:54 UTC] PHP Stack trace:
+[20-Sep-2017 19:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:30:54 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:30:54 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 31
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. isDuplicate() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:20
+[20-Sep-2017 19:31:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php on line 24
+[20-Sep-2017 19:31:24 UTC] PHP Stack trace:
+[20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
+[20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
+[20-Sep-2017 19:31:24 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24

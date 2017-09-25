@@ -26,7 +26,6 @@ for ($i = 0; $i < 5; $i++) {
 }
 
 
-
 function isDuplicate($currentNum, $lottoArray) {
 
 	foreach ($lottoArray as $num) {

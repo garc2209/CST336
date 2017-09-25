@@ -1,0 +1,212 @@
+[15-Sep-2017 19:32:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 6
+[15-Sep-2017 19:32:40 UTC] PHP Fatal error:  Call to undefined function push() in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:40 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
+[15-Sep-2017 19:32:57 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/CST336_lab3/lab3/test.php on line 12
+[15-Sep-2017 19:32:57 UTC] PHP Stack trace:
+[15-Sep-2017 19:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:0
+[15-Sep-2017 19:32:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/CST336_lab3/lab3/test.php:12
