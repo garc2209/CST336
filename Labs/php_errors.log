@@ -25,3 +25,5 @@
 [08-Sep-2017 19:52:23 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/CST336/Labs/Lab2/index.php on line 15
 [08-Sep-2017 19:52:23 UTC] PHP Stack trace:
 [08-Sep-2017 19:52:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Labs/Lab2/index.php:0
+[29-Sep-2017 18:10:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/CST336/Labs/Lab4/index.php on line 34
+[29-Sep-2017 18:10:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/CST336/Labs/Lab4/index.php on line 60
