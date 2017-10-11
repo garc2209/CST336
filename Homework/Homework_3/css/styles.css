@@ -1,0 +1,108 @@
+body
+{
+    font-family: 'Modak', cursive;
+    background-color: purple;
+}
+#img {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h2 {
+    margin-left: 345px;
+}
+
+
+#png {
+    border-radius: 15px;
+}
+
+#total {
+    margin-left: 225px;
+    font-size: larger;
+}
+
+#header {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: larger;
+}
+
+#buyNow {
+    margin-left: 350px;
+    width: 90px;
+    height: 100px;
+    
+}
+
+#body {
+    width: 850px;
+
+	margin: 110px auto;
+
+	border-radius: 15px, 50px;
+
+	background-color: white;
+
+	padding: 24px;
+	
+	 border-style: solid;
+	 border-width: 10px;
+}
+
+#personInfo {
+    margin-left: 225px;
+    font-size: larger;
+}
+
+#cName {
+    padding-top: 75px;
+    margin-left: 225px;
+    padding-bottom: 15px;
+    font-size: x-large;
+}
+
+#items {
+    margin-left: 225px;
+    padding-bottom:20px;
+    font-size: x-large;
+}
+
+#order {
+    margin-left: 225px;
+    font-size: x-large;
+}
+
+#support {
+    margin-left: 225px;
+    padding-bottom: 25px;
+    font-size: larger;
+}
+#hero {
+    margin-left: 225px;
+}
+
+#merch {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0;
+    margin-left: 225px;
+    font-size: larger;
+}
+
+#month {
+    margin-left: 225px;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
