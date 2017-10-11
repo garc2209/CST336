@@ -130,16 +130,25 @@ session_start();
      <br>
     </div>
    
-   <div class=button>
+   <div id="button">
      <input id="buyNow" name="form" type="image" src="img/b-icon.png" alt="submit">
      <h2><span>Buy Now!</span></h2>
+    
    </div>
-
+   <div id="buddy">
+       <img id="buddy" src="img/buddy_verified.png">
+   </div>
 
    </form>
   </div>
  </div>
 </body>
+
+<footer>
+    
+      
+</footer>
+
 
 </html>
 

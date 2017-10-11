@@ -64,6 +64,11 @@ h2 {
     font-size: x-large;
 }
 
+#buddy 
+{
+    margin-left: 150px;
+}
+
 #items {
     margin-left: 225px;
     padding-bottom:20px;
