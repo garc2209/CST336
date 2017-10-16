@@ -36,7 +36,7 @@ session_start();
    }
    if(empty($_POST["sHero"]))
    {
-   $candidateErr="Super Hero is required";
+   $heroErr="Super Hero is required";
    }
    else
    {
@@ -91,6 +91,7 @@ session_start();
      <?php echo $nameErr;?><br>
      <label>Enter your age</label>
      <input STYLE="border:2px solid black; background-color:#C6D9F0;" type="text" name="age" size="3" maxlength="3"value=<?php echo$_SESSION['age'];?>>
+    <?php echo $ageErr;?>
     </div>
     <div id="hero">
      
@@ -109,7 +110,7 @@ session_start();
      <p>Merchandise</p>
      
      <input  type="checkbox" name="merch1" value="Mug ($15)"> Mug ($15)
-     <?php echo $somErr;?>
+     
      <br>
      <input type="checkbox" name="merch2" value="Cap ($20)"> Cap ($20)
      <br>

@@ -2,6 +2,7 @@ body
 {
     font-family: 'Modak', cursive;
     background-color: purple;
+    font-style: italic;
 }
 #img {
     margin: 0px;

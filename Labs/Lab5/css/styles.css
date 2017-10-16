@@ -1,0 +1,37 @@
+
+input[type="submit"]{
+    border-radius: 20px;
+    background-color: #1E1E1E;
+    font-size:18px;
+    border-radius: 15px;
+    color: #bbbbbb;
+    box-shadow:-1px 2px #6E6B6A inset;
+    height: auto;
+    width: auto;
+    
+}
+
+
+body {
+    background-color: red;
+    opacity:0.9;
+    width:100%;
+    color:silver ;
+    font-size:18px;
+    padding-left: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+input[type="text"]{
+    border-radius: 15px;
+    padding: 8px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+}
+   form {
+    font-size:20px;
+    font-weight: bold;
+}
+#wrapper {
+    padding-left: 20px;
+}
