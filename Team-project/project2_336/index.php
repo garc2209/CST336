@@ -8,7 +8,7 @@ session_start();
     }
 
    include '../../dbConnection.php';
-    $conn = getDatabaseConnection();
+    $conn = getDatabaseConnection('group_project_2');
     
     
     

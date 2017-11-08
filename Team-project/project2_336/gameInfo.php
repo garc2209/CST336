@@ -3,7 +3,7 @@ session_start();
 function displayGameInfo() {
     
    include '../../dbConnection.php';
-    $conn = getDatabaseConnection();
+   $conn = getDatabaseConnection('group_project_2');
     $sql = "SELECT * 
             FROM gp2_game g 
             JOIN gp2_published p 

@@ -1,7 +1,7 @@
 <?php 
 session_start();
  include '../../dbConnection.php';
-$conn = getDatabaseConnection();
+$conn = getDatabaseConnection('group_project_2');
 $sql = "SELECT * FROM gp2_game WHERE vgID = :vgId";
     
 $namedParam = array(":vgId"=>$_GET['vgID']);

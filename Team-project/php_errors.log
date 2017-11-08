@@ -1,0 +1,6 @@
+[08-Nov-2017 19:18:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tcp.gp2_game' doesn't exist' in /home/ubuntu/workspace/CST336/Team-project/project2_336/index.php:67
+Stack trace:
+#0 /home/ubuntu/workspace/CST336/Team-project/project2_336/index.php(67): PDOStatement->execute()
+#1 /home/ubuntu/workspace/CST336/Team-project/project2_336/index.php(124): displayGames()
+#2 {main}
+  thrown in /home/ubuntu/workspace/CST336/Team-project/project2_336/index.php on line 67

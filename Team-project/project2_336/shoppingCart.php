@@ -3,7 +3,7 @@ session_start();
     
 function displayCart() {
    include '../../dbConnection.php';
-    $conn = getDatabaseConnection();
+ $conn = getDatabaseConnection('group_project_2');
     $array = $_SESSION['vgID'];
     
     echo "<div id = 'tables'>";
