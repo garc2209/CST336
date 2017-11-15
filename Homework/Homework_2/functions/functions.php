@@ -21,6 +21,8 @@ for ($i = 0; $i < 5; $i++) {
 
 	
 
+
+
 	array_push($Lotto, $randValue);
 
 }

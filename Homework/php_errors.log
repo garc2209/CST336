@@ -128,3 +128,23 @@
 [20-Sep-2017 19:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:0
 [20-Sep-2017 19:31:24 UTC] PHP   2. play() /home/ubuntu/workspace/CST336/Homework/Homework_2/index.php:41
 [20-Sep-2017 19:31:24 UTC] PHP   3. array_push() /home/ubuntu/workspace/CST336/Homework/Homework_2/functions/functions.php:24
+[15-Nov-2017 03:54:02 UTC] PHP Warning:  include_once(./functions/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php on line 33
+[15-Nov-2017 03:54:02 UTC] PHP Stack trace:
+[15-Nov-2017 03:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:0
+[15-Nov-2017 03:54:02 UTC] PHP Warning:  include_once(): Failed opening './functions/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php on line 33
+[15-Nov-2017 03:54:02 UTC] PHP Stack trace:
+[15-Nov-2017 03:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:0
+[15-Nov-2017 03:54:02 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php on line 44
+[15-Nov-2017 03:54:02 UTC] PHP Stack trace:
+[15-Nov-2017 03:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:0
+[15-Nov-2017 03:54:02 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:44
+[15-Nov-2017 03:55:09 UTC] PHP Warning:  include_once(./functions/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php on line 33
+[15-Nov-2017 03:55:09 UTC] PHP Stack trace:
+[15-Nov-2017 03:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:0
+[15-Nov-2017 03:55:09 UTC] PHP Warning:  include_once(): Failed opening './functions/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php on line 33
+[15-Nov-2017 03:55:09 UTC] PHP Stack trace:
+[15-Nov-2017 03:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:0
+[15-Nov-2017 03:55:09 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php on line 44
+[15-Nov-2017 03:55:09 UTC] PHP Stack trace:
+[15-Nov-2017 03:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:0
+[15-Nov-2017 03:55:09 UTC] PHP   2. sort() /home/ubuntu/workspace/CST336/Homework/Homework_4/index.php:44

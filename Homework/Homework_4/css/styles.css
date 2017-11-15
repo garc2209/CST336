@@ -1,0 +1,107 @@
+body {
+
+	background-color: red;
+	font-family: 'Pacifico', cursive;
+
+}
+h1
+{
+	margin-left: 150px;
+}
+
+#numbers
+{
+	font-size: 300%;
+	margin-left: 250px;
+}
+
+
+#wrapper{
+
+	width: 850px;
+
+	margin: 110px auto;
+
+	border-radius: 25px;
+
+	background-color: white;
+
+	padding: 24px;
+	
+	 border-style: solid;
+	 border-width: 10px;
+
+    
+
+}
+
+
+
+img.ca-logo{
+
+	margin-left:190px;
+
+}
+
+
+
+table.lottoTable{
+
+	margin: 0 auto 50px auto;
+
+	width: 600px;
+
+}
+
+
+
+.lottoTable th{
+
+	font-size:1.7em;
+
+}
+
+
+
+.lottoTable td{
+
+	text-align: center;
+
+	width: 60px;
+
+	font-size: 3em;
+
+}
+
+
+
+#power{
+
+	border-radius:60px;
+
+	color: white;
+
+	background-color: red;
+
+}
+
+
+footer{
+
+	margin-top: 10px;
+
+	font-size: .7em; 
+
+}
+
+
+
+img.footerLogoImage{
+
+	float:left;
+
+	margin-right:20px;
+
+	width: 70px;
+
+}
