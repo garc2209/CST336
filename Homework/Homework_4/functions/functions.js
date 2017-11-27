@@ -9,7 +9,8 @@ function isDuplicate(currentNum, lottoArray) {
 
 	var num, phpjslocvar_0;
 
-	for (phpjslocvar_0 in lottoArray) { num = lottoArray[phpjslocvar_0];
+	for (phpjslocvar_0 in lottoArray) {
+	    num = lottoArray[phpjslocvar_0];
 
 		if (currentNum == num) {
 
